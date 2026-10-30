@@ -4,6 +4,10 @@ CSV files are not included in this repo (large size and dataset license).
 
 Download from Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+The same CSVs are also published in Olist's official GitHub repository
+(`olist/work-at-olist-data`, folder `datasets/`), which is how the documented
+run in this repo was reproduced without a Kaggle account.
+
 Files used:
 - `olist_customers_dataset.csv`
 - `olist_orders_dataset.csv`
